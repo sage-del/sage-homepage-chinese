@@ -1,0 +1,98 @@
+<main>
+	<!-- <div class="main_title" > -->
+<h1>カーシェアリングシステム、IoTシステム、モータ制御開発なら株式会社サージュ</h1>
+<img src="[template_url]/assets/img/main/title_ch.svg" alt="新しい価値観で未来社会を切り開く" />
+	    <!-- <p class="main_title">以全新价值观开拓未来社会</p>
+	    <h2 class="main_title">Value-Concept Innovation</h2> -->
+        <!-- </div> -->
+</main>
+
+<div class="sc01">
+		<section class="container">
+			<div class="row">
+			<div class="respons-full">
+				<span class="title-arrow">业务介绍</span>
+				<h2>我们通过汽车共享系统、IoT系统开发、IoT量产产品开发、电机控制开发等业务，<br />
+                                    致力于为客户解决各类难题。</h2>
+			</div>
+			</div>
+			<div class="row">
+				<div class="respons-6">
+					<a href="[translated_url slug='carsharing']">
+						<div class="inner">
+							<img src="[template_url]/assets/img/home/sc0101.jpg" alt="汽车共享系统" />
+							<h3 class="n01">汽车共享系统</h3>
+							<img class="btn" src="[template_url]/assets/img/home/btn-right-green.svg" />
+						</div>
+					</a>
+				</div>
+				<div class="respons-6">
+					<a href="[translated_url slug='iot-system']">
+						<div class="inner">
+							<img src="[template_url]/assets/img/home/sc0102.jpg" alt="IoT系统开发" />
+							<h3 class="n02">IoT系统开发</h3>
+							<img class="btn" src="[template_url]/assets/img/home/btn-right-green.svg" />
+						</div>
+					</a>
+				</div>
+				<div class="respons-6">
+					<a href="[translated_url slug='iot-product']">
+						<div class="inner">
+							<img src="[template_url]/assets/img/home/sc0103.jpg" alt="IoT量产产品开发" />
+							<h3 class="n03">IoT量产产品开发</h3>
+							<img class="btn" src="[template_url]/assets/img/home/btn-right-green.svg" />
+						</div>
+					</a>
+				</div>
+				<div class="respons-6">
+					<a href="[translated_url slug='motor-control']">
+						<div class="inner">
+							<img src="[template_url]/assets/img/home/sc0104.jpg" alt="电机控制开发" />
+							<h3 class="n04">电机控制开发</h3>
+							<img class="btn" src="[template_url]/assets/img/home/btn-right-green.svg" />
+						</div>
+					</a>
+				</div>
+			</div>
+		</section>
+</div>
+
+<div class="sc02">
+	<section class="container">
+		<div class="row">
+			<img src="[template_url]/assets/img/home/sc0201.jpg" alt="株式会社サージュ 新しい価値観で未来社会を切り開く">
+		<div class="respons-full">
+			<span class="title-img">关于我们</span>
+			<h2>以全新价值观开拓未来社会く</h2>
+			<p>株式会社Sage从嵌入式软件开发起步，始终致力于探索软件的无限可能，并以创新的价值观努力帮助客户实现梦想。</p>
+			<a class="btn" href="[translated_url slug='company']">了解更多</a>
+
+		</div>
+		</div>
+	</section>
+</div>
+
+<div class="sc03">
+	<section class="container">
+		<div class="row">
+			<div class="respons-full">
+			<a href="[translated_url slug='contact']">
+
+				<div class="inner">
+					<div class="left">
+						<span>联系我们</span>
+						<div class="inner02">
+							<p>关于汽车共享系统、IoT系统开发、IoT量产产品开发、电机控制开发，以及其他任何关于我司的咨询，欢迎通过以下方式联系我们。</p>
+						</div>
+						<img class="btn" src="[template_url]/assets/img/home/btn-right-green.svg" />
+
+					</div>
+					<div class="right">
+						<img src="[template_url]/assets/img/home/sc0301.jpg" />
+					</div>
+				</div>
+				</a>
+			</div>
+		</div>
+	</section>
+</div>
