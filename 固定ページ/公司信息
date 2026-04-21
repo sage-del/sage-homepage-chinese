@@ -1,0 +1,134 @@
+<main>
+	<h1>公司信息</h1>
+</main>
+
+
+<div class="sc01">
+	<section class="container">
+		<div class="row">
+			<div class="respons-full">
+				<h2>经营理念</h2>
+				<h3>Value-Concept Innovation</h3>
+				<h4>以全新价值观开拓未来社会</h4>
+				<p>
+					Sage股份有限会社从嵌入式软件开发起步，<br />
+始终致力于探索软件的无限可能，以创新价值观助力客户实现梦想。<br />
+我们以在汽车·通信领域积累的信任为基础，<br />
+运用先进的远程信息技术，<br />
+构建"人车和谐、地球共生"的机制，<br />
+旨在为低碳未来社会贡献力量。
+				</p>
+				
+<div style="margin: 0 auto;">
+	<p class="dir_name">代表董事社长</p>
+	<p class="dir_name">村上 穣視</p>
+</div>
+			</div>
+		</div>
+	</section>
+</div>
+
+<div class="sc02">
+	<section class="container">
+		<div class="row">
+			<div class="respons-full">
+				<h2>公司概要</h2>
+				<table class="table table-bordered">
+					<tbody>
+						<tr>
+							<th>公司名</th>
+							<td>Sage股份有限会社</td>
+						</tr>
+						<tr>
+							<th>法定代表人</th>
+							<td>村上 穣視</td>
+						</tr>
+						<tr>
+							<th>成立日期</th>
+							<td>2001年3月13日</td>
+						</tr>
+						<tr>
+							<th>注册资本</th>
+							<td>1,000万日元</td>
+						</tr>
+						<tr>
+							<th>经营范围</th>
+							<td>系统开发、电子设备设计制造销售、汽车共享系统运营</td>
+						</tr>
+						<tr>
+							<th>所在地</th>
+							<td>
+								<strong>■总部</strong><br />
+								<address>〒231-0013 神奈川县横滨市中区住吉町2-24 KY大厦2F-B<br /> </address>
+								<strong>■汽车共享事业部</strong><br />
+								<address>〒231-0014 神奈川县横滨市中区常盘町2-11 KY常盘大厦4F<br />
+									</address> 
+								<strong>■关西营业所</strong><br />
+								<address>〒532-0011 大阪市淀川区西中岛1丁目9-20 新中岛大厦5F<br />
+									</address> 
+									<strong>■冲绳办事处</strong><br />
+									<address>〒901-2102 冲绳县浦添市前田1丁目52-1 Heights翁长201<br />
+										</address> 
+								
+							</td>
+						</tr>
+						<tr>
+							<th>关联公司</th>
+							<td>
+							<strong>公司名：十贤科技（大连）有限公司</strong><br />
+							<address>中国辽宁省大连经济技术开发区金马路128号21层3号<br />
+								</adeess>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+		</div>
+	</section>
+</div>
+
+
+<div class="sc03">
+	<section class="container">
+		<div class="row">
+			<div class="respons-full">
+				<h2>发展历程</h2>
+				<ul>
+					<li>2001年3月：成立Sage有限公司</li>
+					<li>2005年1月：有限公司改组为股份有限公司</li>
+					<li>2007年3月：推出汽车共享系统</li>
+					<li>2010年3月：设立关西营业所</li>
+					<li>2012年4月：总部迁至现址</li>
+					<li>2016年3月：推出4G版汽车共享系统</li>
+					<li>2017年4月：开发两轮车用TCU</li>
+					<li>2020年3月：开发商用车用TCU</li>
+					<li>2021年8月：设立冲绳办事处</li>
+					<li>2022年11月：新设制造部与品质保证部</li>
+					<li>2023年1月：汽车共享事业部搬迁</li>
+					<li>2023年8月：启动机器人用TCU量产</li>
+					<li>2025年3月：成立十贤科技（大连）有限公司</li>
+				</ul>
+			</div>
+		</div>
+	</section>
+</div>
+
+<div class="sc04" id="anchor">
+	<section class="container">
+		<div class="row">
+			<div class="respons-full">
+				<h2>人才招聘</h2>
+				<h3>如有招聘相关咨询，请联系以下信息：</h3>
+				<div class="inner">
+					<ul>
+						<li>Sage股份有限公司</li>
+						<li>收件人：招聘负责人</li>
+						<li>邮箱：sage_hp_toiawase@jsage.co.jp</li>
+					</ul>
+				</div>
+
+
+			</div>
+		</div>
+	</section>
+</div>
