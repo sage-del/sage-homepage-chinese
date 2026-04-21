@@ -1,0 +1,39 @@
+<main>
+	<h1>Declaration of Conformity<br />符合性声明</h1>
+</main>
+
+
+<div class="sc00">
+	<section class="container">
+		<div class="row">
+			<div class="respons-full">
+				<h2>Declaration of Conformity<br />Telematics Control Unit</h2>
+				<h2>符合性声明<br />远程信息处理控制单元</h2>
+
+			</div>
+		</div>
+	</section>
+</div>
+
+<div class="sc01">
+	<section class="container">
+		<div class="row">
+			<div class="respons-full">
+			<?php the_content(); ?>
+
+
+<h3>34770YZF_E01</h3>
+
+<hr />
+
+<a href="https://jsage.co.jp/wp-content/uploads/2024/08/EU-Declaration-of-Conformity.pdf" target="_blank" rel="noopener">欧盟符合性声明(EU Declaration of Conformity)</a>
+
+<hr />
+
+<a href="https://jsage.co.jp/wp-content/uploads/2024/08/UKCA-Declaration-of-Conformity.pdf" target="_blank" rel="noopener">英国符合性声明（UKCA）(UKCA Declaration of Conformity)</a>
+
+<hr />
+			</div>
+		</div>
+	</section>
+</div>
