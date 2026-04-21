@@ -1,0 +1,59 @@
+<main>
+	<h1>电机控制开发</h1>
+</main>
+
+
+<div class="sc00">
+	<section class="container">
+		<div class="row">
+			<div class="respons-full">
+				<h2>Sage的电机控制开发的<br />业绩案例（部分示例）介绍</h2>
+			</div>
+		</div>
+	</section>
+</div>
+
+<div class="sc01">
+	<section class="container">
+		<div class="row">
+			<div class="respons-full">
+				<div class="left">
+					<h3 class="title">电机控制开发成果</h3>
+					<p>基于模型的步进电机矢量控制开发</p>
+					<div class="inner">
+						<ul>
+							<li>采用Stateflow实现运行状态的状态迁移建模</li>
+							<li>通过MATLAB/Simulink完成电机控制系统建模</li>
+							<li>利用自动代码生成减少工时</li>
+							<li>基于模型开发提升调试效率</li>
+							<li>稳定性提升（无失步现象）</li>
+							<li>支持包含电压限制在内的宽范围高效驱动</li>
+							<li>空载约30%，负载约10%的效率提升</li>
+						</ul>
+					</div>
+				</div>
+				<div class="right">
+					<div class="wrapper01">
+						<div class="left">
+							<span>步进电机</span>
+							<img src="[template_url]/assets/img/page/04sc0101.jpg" alt="步进电机图像" />
+						</div>
+						<div class="right">
+							<span>矢量控制</span>
+							<img src="[template_url]/assets/img/page/04sc0102.jpg" alt="矢量控制系统图像" />
+						</div>
+					</div>
+					<div class="wrapper02">
+						<div class="block01">
+							<span>Stateflow状态模型</span>
+							<img src="[template_url]/assets/img/page/04sc0103.jpg" alt="使用 Stateflow 的状态模型图像" />
+						</div>
+						<div class="block02">
+							<span>Simulink控制模型</span>
+							<img src="[template_url]/assets/img/page/04sc0104.jpg" alt="使用 Simulink 控制模型图像" />
+						</div>
+				</div>
+			</div>
+		</div>
+	</section>
+</div>
