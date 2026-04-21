@@ -1,0 +1,36 @@
+<main>
+	<h1>联系我们</h1>
+</main>
+
+
+<div class="sc00">
+	<section class="container">
+		<div class="row">
+			<div class="respons-full">
+				<h2>如有关于我司产品·业务的咨询<br />请通过以下方式联系。</h2>
+			</div>
+		</div>
+	</section>
+</div>
+
+<div class="sc01">
+	<section class="container">
+		<div class="row">
+			<div class="respons-full">
+				<h3 class="margin-bottom">电话咨询</h3>
+				<div class="wrapper">
+					<div class="left"><span>■总机</span></div>
+					<div class="right"><span>电话：<strong>045-650-6840</strong></span><span>传真：<strong>045-650-6841</strong></span></div>
+					<div class="clear"></div>
+				</div>
+				<p>※周末及法定节假日暂停服务</p>
+				</div>
+
+			<div class="respons-full margin-top">
+				<h3>邮件咨询</h3>
+				<p>sage_hp_toiawase@jsage.co.jp</p>
+				<p>※回复可能需要2-3个工作日，请谅解。</p>
+			</div>
+		</div>
+	</section>
+</div>
