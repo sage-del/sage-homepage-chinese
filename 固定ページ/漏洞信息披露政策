@@ -1,0 +1,33 @@
+<main>
+	<h1>漏洞信息披露政策</h1>
+</main>
+
+
+<div class="sc00">
+	<section class="container">
+		<div class="row">
+			<div class="respons-full">
+				<h2>关于本公司提供的产品<br />此处刊登漏洞信息披露政策的相关内容。</h2>
+			</div>
+		</div>
+	</section>
+</div>
+
+<div class="sc01">
+	<section class="container">
+		<div class="row">
+			<div class="respons-full">
+				<h3>关于漏洞信息披露政策</h3>
+				<p>
+					 为确保客户能安心使用本公司提供的产品，本公司基于【信息安全早期预警合作伙伴制度*1】，
+					 开展与本公司产品相关漏洞信息的受理、收集及影响调查工作。
+					 当必须降低风险时，我们将通过JVN*2适时公布漏洞信息及应对措施。
+				</p>
+				<ul>
+					<li><a href="https://www.ipa.go.jp/security/guide/vuln/partnership_guide.html" target="_blank">* 1 信息安全早期预警合作伙伴制度</a></li>
+					<li><a href="https://jvn.jp/index.html" target="_blank">*2 JVN（日本漏洞公告平台，Japan Vulnerability Notes）</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+</div>
