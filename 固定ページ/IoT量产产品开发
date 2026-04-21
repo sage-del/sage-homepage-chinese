@@ -1,0 +1,169 @@
+<main>
+	<h1>IoT量产产品开发</h1>
+</main>
+
+
+<div class="sc00">
+	<section class="container">
+		<div class="row">
+			<div class="respons-full">
+				<h2>Sage的TCU是可在严苛环境下部署使用的一款小型化产品。</h2>
+			</div>
+		</div>
+	</section>
+</div>
+
+<div class="sc01">
+	<section class="container">
+		<div class="row">
+			<div class="respons-full">
+				<div class="left">
+					<h3 class="title">机器人用无线通信模块<br /><small>（TCU : Telematics Control Unit）</small></h3>
+					<p>采用小型轻量化设计，具备卓越的防尘、防水、防潮及抗振动性能的TCU</p>
+					<div class="inner">
+						<p>
+							Sage的TCU可在各类严苛环境中部署，是最适合loT物联网化的理想产品。
+						</p>
+					</div>
+				</div>
+				<div class="right">
+					<!-- <img class="br" src="https://jsage.co.jp/wp-content/uploads/2025/11/Frame-25.jpg" alt="机器人无线通信装置图片" /> -->
+					<img class="br" src="https://jsage.co.jp/wp-content/uploads/2025/11/Frame-25.jpg" alt="机器人无线通信装置图片" />
+				</div>
+
+			</div>
+		</div>
+	</section>
+</div>
+
+
+<div class="sc02">
+	<section class="container">
+		<div class="row">
+			<div class="respons-full">
+				<h3 class="title">主要功能</h3>
+			</div>
+		</div>
+		<div class="row">
+			<div class="respons-6">
+				<div class="wrapper">
+					<img src="[template_url]/assets/img/page/03sc0201.png" alt="数据通信图像">
+					<h4>数据通信</h4>
+					<p>支持通过蜂窝网络将数据上传至云端。</p>
+				</div>
+			</div>
+			<div class="respons-6">
+				<div class="wrapper">
+					<img src="[template_url]/assets/img/page/03sc0202.png" alt="位置信息图像">
+					<h4>位置信息</h4>
+					<p>通过GPS获取位置数据，可在管理界面实时追踪设备位置。万一，即使发生盗抢情况，仍可获取设备定位信息</p>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="respons-4">
+				<div class="wrapper">
+					<img src="[template_url]/assets/img/page/03sc0203.png" alt="设备管理图像">
+					<h4>设备管理</h4>
+					<p>通过CAN通信获取各类设备信息，并定期上传至云端，可实时掌握设备运行状态</p>
+				</div>
+			</div>
+			<div class="respons-4">
+				<div class="wrapper">
+					<img src="[template_url]/assets/img/page/03sc0204.png" alt="错误通知的图片">
+					<h4>故障通知</h4>
+					<p>能够将设备检测到的故障信息及时通知用户。</p>
+				</div>
+			</div>
+			<div class="respons-4">
+				<div class="wrapper">
+					<img src="[template_url]/assets/img/page/03sc0205.png" alt="OTA功能图">
+					<h4>OTA功能</h4>
+					<p>即使软件存在漏洞缺陷，也能高效、安全地完成远程更新。</p>
+				</div>
+			</div>
+
+
+		</div>
+	</section>
+</div>
+
+
+
+<div class="sc03">
+	<section class="container">
+		<div class="row">
+			<div class="respons-full">
+				<h3 class="title">Sage TCU的优势</h3>
+			</div>
+			<div class="respons-full">
+				<ul>
+					<li>提供硬件与软件一体化解决方案，实现低成本快速开发</li>
+					<li>外壳采用环境适配材质，确保极端工况下的稳定运行</li>
+					<li>具备全球合规性设计，可协助完成各国无线设备认证</li>
+				</ul>
+			</div>
+		</div>
+	</section>
+</div>
+
+
+<div class="sc04">
+	<section class="container">
+		<div class="row">
+			<div class="respons-full">
+				<h3 class="title">TCU产品概要<br /><small>（标准型号）</small></h3>
+			</div>
+			<div class="respons-full">
+				<table class="table table-bordered">
+				<tbody>
+					<tr>
+						<th>尺寸</th>
+						<td>54mm(W)×130mm(L) ×27mm(H)</td>
+					</tr>
+					<tr>
+						<th>重量</th>
+						<td>108g</td>
+					</tr>
+					<tr>
+						<th>电源</th>
+						<td>DC:6V~30V</td>
+					</tr>
+					<tr>
+						<th>使用温度</th>
+						<td>-25℃ ~ +65℃</td>
+					</tr>
+					<tr>
+						<th>环境适应性</th>
+						<td>耐肥料、防锈剂附着、耐氯化钙侵蚀、抗振动、抗冲击、防水、耐盐水、抗油污、耐汽油、防尘、抗紫外线、防凝露、</td>
+					</tr>
+					<tr>
+						<th>蜂窝通信</th>
+						<td>・4G LTE Cat 1频段 (1,2,3,4,5,7,8,12,19,20,26,28,38)<br />
+						・3G UMTS Band 8</td>
+					</tr>
+					<tr>
+						<th>GNSS</th>
+						<td>GPS、GLONASS、Galileo、北斗、准天顶系统</td>
+					</tr>
+					<tr>
+						<th>天线</th>
+						<td>内置天线（蜂窝通信/卫星定位）
+						</td>
+					</tr>
+					<tr>
+						<th>通信接口</th>
+						<td>CAN、K-LINE、UART</td>
+					</tr>
+					<tr>
+						<th>认证</th>
+						<td>CE（欧盟）、UKCA（英国）、FCC（美国）、JATE/TELEC（日本）</td>
+					</tr>
+				</tbody>
+			</table>
+
+				
+			</div>
+		</div>
+	</section>
+</div>
