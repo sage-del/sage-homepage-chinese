@@ -1,0 +1,82 @@
+<main>
+	<h1>关于 ISO 认证的相关举措</h1>
+</main>
+
+
+<div class="sc00">
+	<section class="container">
+		<div class="row">
+			<div class="respons-full">
+				<h2>本页面介绍了支撑质量与信息安全<br>的管理体制</h2>
+			</div>
+		</div>
+	</section>
+</div>
+
+<div class="sc01">
+	<section class="container">
+		<div class="row">
+			<div class="respons-full">
+			<?php the_content(); ?>
+
+<p>
+株式会社 Sage 致力于在日常业务中持续维持并提升质量及信息安全管理。
+为了以更清晰的形式整理并落实这些举措，我们已获得并运行 ISO 9001 (QMS) 及 ISO 27001 (ISMS) 认证。
+</p>
+
+<h3>1. 让质量与信息安全成为业务的基石</h3>
+<p>
+自成立以来，本公司在产品开发和业务一线始终高度重视质量保障及信息的妥善处理，不断积累日常改进。开展 ISO 认证工作的目的，是为了重新审视这些以往的姿态与实务，进行更加清晰直观的整理，并将其自然地融入业务之中。我们并不将质量与信息安全视为脱离日常的“特殊活动”，而是将其定位在现有日常业务的延伸线上。我们将 ISO 的理念作为共同的框架，确保将业务中产生的课题与改进点切实转化为下一阶段的行动。
+</p>
+
+<h3>2. 获得 ISO 认证：一切为了客户</h3>
+<p>
+本公司基于 ISO 9001 (QMS) 及 ISO 27001 (ISMS) 标准，持续运行质量及信息安全的 PDCA 循环。通过结合内部审核与管理评审的结果，整理业务课题与改进点，并将其反映在下一年度的目标及操作规范中，实现管理体系的持续改进。通过这些活动，我们在面向企业的共享汽车系统、IoT 系统开发等各项服务中，致力于日常改进，以便持续为客户提供更高品质、更安心的服务。
+</p>
+
+<h3>3. ISO 9001 (QMS) 相关举措</h3>
+<p>
+根据 ISO 9001 (QMS) 标准，本公司制定了质量方针及质量目标，并在设计、开发、评审、变更管理等各个流程中致力于质量的保障与改进。通过定期分析故障与返工情况、设计评审结果等，并将结果反映在内部审核及管理评审的改进活动中，努力实现业务稳定化与质量提升。
+</p>
+
+<h3>4. ISO 27001 (ISMS) 相关举措</h3>
+<p>
+根据 ISO 27001 (ISMS) 标准，为确保信息资产的机密性、完整性及可用性，本公司开展风险评估，并制定落实必要的管理措施。通过内部审核确认管理措施的有效性，并开展教育培训及修订操作规范，致力于信息安全管理体系 (ISMS) 的持续改进。
+</p>
+
+<h3>5. 认证信息</h3>
+
+认证标准：
+・已获得 ISO 9001 / ISO/IEC 27001 认证
+・认证机构：J-VAC
+・注册编号：JVAC-QM0848 / JVAC-IM0062
+・认证注册日期：2026年3月10日
+
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+    <div style="flex: 1; min-width: 211px; max-width: 300px;">
+        <img src="https://jsage.co.jp/wp-content/uploads/2026/03/JVAC-QM0848登録証-211x300.png" alt="ISO 9001 注册证" width="211" height="300" class="alignnone size-medium wp-image-1036" style="width: 100%; height: auto;" />
+    </div>
+
+    <div style="flex: 1; min-width: 211px; max-width: 300px;">
+        <img src="https://jsage.co.jp/wp-content/uploads/2026/03/JVAC-QM0848付属書-212x300.png" alt="ISO 9001 附件" width="212" height="300" class="alignnone size-medium wp-image-1060" style="width: 100%; height: auto;" />
+    </div>
+
+    <div style="flex: 1; min-width: 211px; max-width: 300px;">
+        <img src="https://jsage.co.jp/wp-content/uploads/2026/03/JVAC-IM0062登録証-211x300.png" alt="ISO/IEC 27001 注册证" width="211" height="300" class="alignnone size-medium wp-image-1035" style="width: 100%; height: auto;" />
+    </div>
+
+    <div style="flex: 1; min-width: 211px; max-width: 300px;">
+        <img src="https://jsage.co.jp/wp-content/uploads/2026/03/JVAC-IM0062付属書-211x300.png" alt="ISO/IEC 27001 附件" width="211" height="300" class="alignnone size-medium wp-image-1059" style="width: 100%; height: auto;" />
+    </div>
+
+</div>
+
+<p>
+　
+※刊登内容基于认证范围。
+</p>
+			</div>
+		</div>
+	</section>
+</div>
