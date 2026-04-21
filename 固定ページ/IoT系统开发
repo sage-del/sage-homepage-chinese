@@ -1,0 +1,136 @@
+<main>
+	<h1>IoT系统开发</h1>
+</main>
+
+
+<div class="sc00">
+	<section class="container">
+		<div class="row">
+			<div class="respons-full">
+				<h2>为您介绍Sage的IoT系统开发服务的特点及系统概要</h2>
+			</div>
+		</div>
+	</section>
+</div>
+
+<div class="sc01">
+	<section class="container">
+		<div class="row">
+			<div class="respons-full">
+				<div class="left">
+					<h3 class="title">通过IoT设备应用解决客户痛点</h3>
+					<p>Sage的IoT系统开发服务，从降低维护成本到创新商业模式，全方位满足客户的多样化需求。</p>
+				</div>
+				<div class="right">
+					<img class="br" src="[template_url]/assets/img/page/02sc0101.jpg" alt="IoT 设备使用情况图" />
+				</div>
+
+				
+			</div>
+		</div>
+	</section>
+</div>
+
+<div class="sc02">
+	<section class="container">
+		<div class="row">
+				<div class="respons-full">
+					<div class="wrapper block01">
+						<div class="left"><img class="br" src="[template_url]/assets/img/page/02sc0201.png" /></div>
+						<div class="right">
+							<div class="bloon"><span>降低维护成本</span></div>
+							<ul>
+								<li>减少维护作业中必要的物资运输和人工工时</li>
+								<li>通过OTA（空中下载）技术更新产品的FW及IoT设备固件</li>
+								<li>远程掌握维护时机</li>
+							</ul>
+						</div>
+						<div class="clear"></div>
+					</div>
+				</div>
+				<div class="respons-full">
+					<div class="wrapper block02">
+						<div class="left"><img class="br" src="[template_url]/assets/img/page/02sc0202.png" /></div>
+						<div class="right">
+							<div class="bloon"><span>实现设备远程监控</span></div>
+							<ul>
+								<li>支持管理员/用户远程操作</li>
+								<li>包含定位信息的远程防盗监控</li>
+								<li>故障早期预警与快速响应/延长产品寿命</li>
+							</ul>
+						</div>
+						<div class="clear"></div>
+					</div>
+				</div>
+				<div class="respons-full">
+					<div class="wrapper block03">
+						<div class="left"><img class="br" src="[template_url]/assets/img/page/02sc0203.png" /></div>
+						<div class="right">
+							<div class="bloon"><span>创新商业模式</span></div>
+							<ul>
+								<li>分析客户设备运行数据，精准把握市场需求</li>
+							</ul>
+						</div>
+						<div class="clear"></div>
+					</div>
+				</div>
+		</div>
+	</section>
+</div>
+
+<div class="sc03">
+	<section class="container">
+		<div class="row">
+			<div class="respons-full">
+				<h3 class="title"><small>提供从IoT设备到服务器系统/管理平台的全套解决方案</small>IoT系统概要</h3>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="respons-full">
+				<h4>数据采集</h4>
+				<div class="inner-bg-white">
+					<img src="[template_url]/assets/img/page/02sc0301 ch.svg" />
+					<ul>
+						<li>专为研发阶段设计</li>
+						<li>实时获取运行中的电池使用数据 及性能衰减分析</li>
+					</ul>
+				</div>
+			</div>
+			<div class="respons-full">
+				<h4>车队管理系统</h4>
+				<div class="inner-bg-white">
+					<img src="[template_url]/assets/img/page/02sc0302 ch.svg" />
+					<ul>
+						<li>商用资产管理</li>
+						<li>实时采集设备运行数据，实现资产利用率提升，精准维护成本降低</li>
+					</ul>
+				</div>
+			</div>
+			<div class="respons-full">
+				<h4>远程诊断</h4>
+				<div class="inner-bg-white">
+					<img src="[template_url]/assets/img/page/02sc0303 ch.svg" />
+					<ul>
+						<li>内置远程诊断功能</li>
+						<li>利用产品ECU的OTA等技术降低服务成本</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</section>
+</div>
+
+
+<div class="sc04">
+	<section class="container">
+		<div class="row">
+			<div class="respons-full">
+				<h3 class="title">Sage系统示例</h3>
+			</div>
+			<div class="respons-full">
+			<video src="[template_url]/assets/img/page/media1.mov" autoplay muted playsinline loop controls></video>　
+			</div>
+		</div>
+	</section>
+</div>
