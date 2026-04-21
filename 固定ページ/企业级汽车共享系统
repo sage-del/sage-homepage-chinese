@@ -1,0 +1,201 @@
+<main>
+	<h1>汽车共享系统</h1>
+</main>
+
+
+<div class="sc00">
+	<section class="container">
+		<div class="row">
+			<div class="respons-full">
+				<h2>为考虑开展汽车共享业务的企业客户，<br />提供所必须的一站式全套系统解决方案。</h2>
+			</div>
+		</div>
+	</section>
+</div>
+
+<div class="sc01">
+	<section class="container">
+		<div class="row">
+			<div class="respons-full">
+				<div class="left">
+					<h3 class="title">低成本 · 快速<br />启动汽车共享业务</h3>
+					<p>Sage的汽车共享系统可实现【低成本导入】和【快速启动业务】两大优势。</p>
+				</div>
+				<div class="right">
+					<img class="br" src="[template_url]/assets/img/page/01sc0101.jpg" alt="汽车共享业务形象" />
+				</div>
+
+				<div class="row">
+					<div class="respons-full">
+						<div class="bloon">
+							<span>降低创业投资风险</span><span>低成本</span><span>快速部署</span>
+						</div>
+						<div class="inner">
+							<p>
+							我们提供完整的硬件和软件打包方案，相比从零开始自主开发，可大幅降低费用并缩短业务启动周期。
+							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+</div>
+
+
+<div class="sc02">
+	<section class="container">
+		<div class="row">
+			<div class="respons-full">
+				<h3 class="title"><small>Sage的汽车共享系统</small>支持按客户要求定制与API对接 实现与贵公司系统无缝集成</h3>
+			</div>
+			<div class="respons-full">
+				<div class="wrapper">
+					<div class="left"><img class="br" src="[template_url]/assets/img/page/01sc0201.png" /></div>
+					<div class="right">
+						<div class="bloon"><span>按客户要求定制</span></div>
+						<h4>根据运营商需求定制专属汽车共享系统</h4>
+						<p>除可直接使用完整套装系统外，还能根据运营商的具体需求对各功能模块进行个性化定制。</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+			</div>
+			<div class="respons-full margin-top">
+				<div class="wrapper">
+					<div class="left"><img class="br" src="[template_url]/assets/img/page/01sc0202.png" /></div>
+					<div class="right">
+						<div class="bloon"><span>API对接</span><span>提升运营效率</span></div>
+						<h4>通过API，对接实现符合实际业务场景的系统运营</h4>
+						<p>例如：会员管理系统（预约等）可沿用运营商现有系统，同时通过API与我们的车辆控制系统对接，从而构建更符合实际业务需求的运营体系。</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+			</div>
+		</div>
+	</section>
+</div>
+
+
+<div class="sc03">
+	<section class="container">
+		<div class="row">
+			<div class="respons-full">
+				<div class="left">
+					<h3 class="title">为汽车共享业务提供全面支持【后台运营】</h3>
+					<p>我们提供包含后台运营的完整解决方案&快速启动方案</p>
+				</div>
+				<div class="right">
+					<img class="br" src="[template_url]/assets/img/page/01sc0301.jpg" alt="后院工作图像" />
+				</div>
+
+				<div class="row">
+					<div class="respons-full">
+						<div class="bloon">
+							<span>呼叫中心服务</span><span>账款回收业务</span>
+						</div>
+						<div class="inner">
+							<p>
+							我们提供包含后台运营（呼叫中心、账款回收业务）在内的完整解决方案及快速启动方案。（运营商只需准备车辆和停车场即可）
+							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+</div>
+
+
+<div class="sc04">
+	<section class="container">
+		<div class="row">
+			<div class="respons-full">
+				<h3 class="title"><small>Sage的汽车共享业务</small>系统概念图</h3>
+			</div>
+			<div class="respons-full">
+				<img src="[template_url]/assets/img/page/01sc0401 ch.svg" alt="系统概念图图像" />
+			</div>
+			
+	
+		</div>
+	</section>
+</div>
+
+<div class="sc01">
+	<section class="container">
+		<div class="row">
+			<div class="respons-full">
+				<div class="left">
+					<h3 class="title">通过Xcentric-EV示范项目推动<br />下一代电动出行的社会落地</h3>
+					<p>Xcentric-EV是一款无需依赖外部供电、可通过行驶发电和太阳能发电实现行驶的新型电动汽车。</p>
+				</div>
+				<div class="right">
+					<img class="br" src="[template_url]/assets/img/page/01sc0101.jpg" alt="共享汽车业务 示意图" />
+				</div>
+
+				<div class="row">
+					<div class="respons-full">
+						<div class="bloon">
+							<span>行驶发电</span><span>太阳能发电</span><span>自立型EV</span>
+						</div>
+						<div class="inner">
+							<p>Xcentric-EV是一种可在行驶过程中或通过太阳能进行发电与储电，并利用该电力实现行驶及对外供电的电动出行工具。该技术有望在灾害发生时作为应急电源使用，并实现不依赖电力基础设施的运营模式。2025年度，在“磐城电池谷实现地区协作协议会”的主办下，该车辆将在磐城市内投入业务使用，推进示范项目以收集行驶数据和用户体验反馈。行驶数据的收集采用了Sage的共享汽车技术。
+							</p>
+                                                        	<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-top: 20px;">
+                                                             <iframe src="https://www.youtube.com/embed/4lrZVCTkmks"
+                    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+                    frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen></iframe>
+                                                         </div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+</div>
+
+
+
+
+
+
+<div class="sc01">
+	<section class="container">
+		<div class="row">
+			<div class="respons-full">
+				<div class="left">
+					<h3 class="title">“物品”所在地，一眼即知。IoT位置信息确认系统《Dokoaru（暂定名）》</h3>
+					<p>《Dokoaru（暂定名）》是一款利用IoT设备，将租车等租赁资产的准确位置进行实时可视化显示的各种管理系统。</p>
+				</div>
+				<div class="right">
+					<img class="br" src="[template_url]/assets/img/page/01sc0101.jpg" alt="汽车共享业务 示意图" />
+				</div>
+
+				<div class="row">
+					<div class="respons-full">
+						<div class="bloon">
+							<span>广域管理</span><span>详细历史记录</span><span>优化</span>
+						</div>
+						<div class="inner">
+							<p>
+								防止资产丢失、优化运转率、并降低管理成本。《Dokoaru（暂定名）》将强力支持贵公司的智能资产管理。
+							</p>
+
+    <div style="display: flex; gap: 20px; align-items: stretch; flex-wrap: wrap; justify-content: center;">
+    
+    <img src="https://jsage.co.jp/wp-content/uploads/2026/02/スクリーンショット-2026-02-13-161705.png"
+         style="width: 300px; height: auto; object-fit: contain; border-radius: 10px;" />
+
+    <img src="https://jsage.co.jp/wp-content/uploads/2026/02/スクリーンショット-2026-02-13-161741.png"
+         style="width: auto; height: auto; max-height: 100%; object-fit: contain; border-radius: 10px;" />
+    
+</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+</div>
