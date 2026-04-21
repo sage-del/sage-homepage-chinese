@@ -1,0 +1,105 @@
+<span style="font-size: 12pt;"></span>
+<span style="font-size: 12pt;"></span>
+
+<div class="page news single">
+<div class="sc01"><section class="container">
+<div class="row">
+<div class="respons-full">
+<h1><span style="font-size: 12pt;">Miimo Bench System（割草机器人完成检测装置）</span></h1>
+
+
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px;">
+  <div style="flex: 1; min-width: 300px;">
+    <span style="font-size: 12pt;">为了高度保障本田技研工业（HONDA）生产的割草机器人“Miimo”的品质，本公司引入并运行了最先进的完成检测系统<strong>“Miimo Bench System（型号：ST-00001）”</strong>。</span>
+    <br /><br />
+    <span style="font-size: 12pt;">本装置从多角度验证产品外观及功能是否存在异常，并对结果进行集中管理，从而实现了具备高度可靠性的产品始终如一地出货。</span>
+  </div>
+  <div style="flex-shrink: 0;">
+    <img src="https://jsage.co.jp/wp-content/uploads/2026/03/miimo検査機の画像1.png" alt="Miimo检测装置图像" style="width: 300px; height: auto; display: block;" />
+  </div>
+</div>
+
+<section>
+<h2><span style="font-size: 12pt;">1. 装置概要</span></h2>
+<span style="font-size: 12pt;">本装置是全长超过5米的大型检测流水线。通过四个专业工作站，一贯式地执行从割草机器人的外观检查到高度功能诊断的所有流程。</span>
+<span style="font-size:12pt;">通过检查车辆的自主移动，以及自主开发的通用串行总线（Universal Serial Bus）转低功耗蓝牙（Bluetooth Low Energy）转换通信设备，实现了检测工序的全自动化。无需人工干预，兼顾了高精度的品质检查与生产效率的提升。</span>
+
+
+</section><section>
+<h2><span style="font-size: 12pt;">2. 四阶段检测流程</span></h2>
+<span style="font-size: 12pt;">通过将全部检测工序优化分配至四个工作站，防止了负荷集中于特定工序。由此，实现了循环时间仅为60秒的高效率流水线运行。</span>
+<h3><span style="font-size: 12pt;">工作站 1：外观检查・单体识别</span></h3>
+<span style="font-size: 12pt;">通过快速响应矩阵码（Quick Response Code）对产品进行个体识别，并根据操作指南进行严格的外观检查。同时，建立与内部系统的通信并开始检测。</span>
+<h3><span style="font-size: 12pt;">工作站 2：功能・安全性测试</span></h3>
+<span style="font-size: 12pt;">自动验证实际运行中所要求的安全性和功能性，包括切割刀片的运行确认、碰撞检测（碰撞试验）以及抬起检测（起吊试验）等。</span>
+<h3><span style="font-size: 12pt;">工作站 3：对接・充电测试</span></h3>
+<span style="font-size: 12pt;">
+对接精度确认：验证是否可以通过自动行驶准确连接到充电站。
+供电诊断：检查对接后的充电过程是否按照规格要求开始。
+蓝牙连接确认：重置Miimo的蓝牙功能，确认设备是否正确迁移至广播状态。以此保证在实际使用中与智能手机的连接性能没有问题。</span>
+<h3><span style="font-size: 12pt;">工作站 4：最终判定・数据管理</span></h3>
+<span style="font-size: 12pt;">汇集各工作站的检测数据，并根据严格标准进行最终的合格判定。</span>
+<span style="font-size: 12pt;">判定后，无论合格与否，都会对所有机体执行恢复出厂设置（Factory Reset），完全清除检测时的设置和日志。确保客户始终能在洁净的状态下开始使用，保证品质。</span>
+
+</section><section>
+<h2><span style="font-size: 12pt;">3. 本系统的主要特点</span></h2>
+<ul>
+ 	<li><span style="font-size: 12pt;"><strong>实时监控与追溯性：</strong></span>
+<span style="font-size: 12pt;">通过工业控制计算机（Industrial Personal Computer）的显示器，实时集中管理各产品的检测进度、故障信息及直通率。
+所有检测结果均作为详细数字数据记录，并经由网络直接保存至客户服务器。这使得在发生问题时能够迅速查明原因。</span></li>
+ 	<li><span style="font-size: 12pt;"><strong>自动搬送与防错功能：</strong></span>
+<span style="font-size: 12pt;">被检测判定为不合格（Not Good）的产品，将由传送带自动隔离至不合格品区，自动防止与合格品混淆。</span></li>
+ 	<li><span style="font-size: 12pt;"><strong>安全至上的设计：</strong></span>
+<span style="font-size: 12pt;">
+为了兼顾作业人员的安全确保与精确检测，配备了多重安全系统。
+刀片防护罩：防止刀片运行测试时的碎片飞散。
+光幕：通过传感器瞬时检测人员进入，使装置安全停止。
+门锁联动装置：通过机门开启检测与自动锁定功能，物理性切断运行中不经意的接触。
+紧急停止系统：部署于整条流水线，万一发生意外可立即停止所有功能。
+
+</span></li>
+</ul></section>
+
+<section>
+<h2><span style="font-size: 12pt;">4. 主要规格</span></h2>
+<table><caption><span style="font-size: 12pt;">主要规格</span></caption>
+<thead>
+<tr>
+<th scope="col"><span style="font-size: 12pt;">项目</span></th>
+<th scope="col"><span style="font-size: 12pt;">内容</span></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row"><span style="font-size: 12pt;">名称</span></th>
+<td><span style="font-size: 12pt;">Miimo Bench System</span></td>
+</tr>
+<tr>
+<th scope="row"><span style="font-size: 12pt;">型号</span></th>
+<td><span style="font-size: 12pt;">ST-00001</span></td>
+</tr>
+<tr>
+<th scope="row"><span style="font-size: 12pt;">装置尺寸</span></th>
+<td><span style="font-size: 12pt;">宽 5,100毫米 × 深 2,500毫米 × 高 2,000毫米</span></td>
+</tr>
+<tr>
+<th scope="row"><span style="font-size: 12pt;">对象产品</span></th>
+<td><span style="font-size: 12pt;">割草机器人</span></td>
+</tr>
+<tr>
+<th scope="row"><span style="font-size: 12pt;">主要检测项目</span></th>
+<td><span style="font-size: 12pt;">外观、刀具驱动、碰撞检测、抬起检测、对接动作、通信功能</span></td>
+</tr>
+</tbody>
+</table>
+</section><section>
+<h2><span style="font-size: 12pt;">5. 完善的维护体制</span></h2>
+<span style="font-size: 12pt;">年度检查：根据需求由本公司工程师实施。进行零件更换、传送带及执行器等活动设备的维护、绝缘电阻测量，并使用实机进行综合运行试验，以确认装置无异常。
+月度检查：请客户自行实施。根据使用说明书，进行外观目视检查、清洁，并确认活动部分的固定螺丝和螺栓有无松动。
+远程支持：通过远程访问，迅速实施远程故障排除及维护。
+</ul>
+</span>
+</section></div>
+</div>
+</section></div>
+</div>
