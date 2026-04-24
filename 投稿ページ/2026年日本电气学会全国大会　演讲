@@ -1,0 +1,26 @@
+株式会社Sage继<a href="https://jsage.co.jp/zh/%e5%85%ac%e5%91%8a/354/" target="_blank" rel="noopener">去年</a>之后，将在2026年3月12日至14日于东北学院大学五桥校区举办的2026年电气学会全国大会上，进行关于旋转机械自适应参数估计的演讲。
+<h2>2026年日本电气学会全国大会讲演概要</h2>
+<h3>讲演题目</h3>
+基于PLL处理的滤器的电机机械参数辨识
+<h3>讲演领域・技术领域</h3>
+<ul>
+ 	<li><span style="font-size: 14pt;">参数辨识</span></li>
+ 	<li><span style="font-size: 14pt;">状态估计 / 观测器</span></li>
+ 	<li><span style="font-size: 14pt;">信号处理</span></li>
+</ul>
+<div style="margin: 20px 0; padding: 20px; border: 1px solid #ddd; background-color: #f9f9f9;">
+<h3 style="margin-top: 0; color: #333;">讲演摘要</h3>
+<blockquote style="margin: 0 0 15px 0; padding-left: 15px; border-left: 5px solid #ccc; color: #555; font-style: italic;">在参数辨识时，如果信号滤器不一样，会有误差。为了从电机转矩和位置辨识机械参数，需要同时做滤波和微分。位置在2π范围内时，普通滤波器不能直接用。本论文用基于PLL的滤波器解决了这个问题，并通过仿真验证了效果。</blockquote>
+<p style="text-align: right; font-size: 0.9em; margin: 0;">出处：<cite><a href="https://gakkai-web.net/iee/program/2026/data/html/general/general8.html#SL307-C2" target="_blank" rel="noopener">2026年电气学会全国大会 演讲程序 [5-094] 基于PLL的无限可动范围电机机械参数辨识方法</a></cite></p>
+
+</div>
+<h3>举办信息（大会概要））</h3>
+<ul>
+ 	<li><span style="font-size: 14pt;">大会名称：2026年电气学会全国大会</span></li>
+ 	<li><span style="font-size: 14pt;">举办时间：2026年3月12日～14日</span></li>
+ 	<li><span style="font-size: 14pt;">举办地点：东北学院大学五桥校区（日本宫城县仙台市若林区清水小路3-1）</span></li>
+</ul>
+<h3>大会官方网站</h3>
+<ul>
+ 	<li><span style="font-size: 14pt;"><a href="https://www.iee.jp/blog/taikai2026-program/" target="_blank" rel="noopener">2026年电气学会全国大会程序</a></span></li>
+</ul>
