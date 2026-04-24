@@ -1,0 +1,133 @@
+<p>建立在灾害时确实可用的电源设备，日常的妥善管理不可或缺。</p>
+
+<section class="intro">
+<p>本公司开发了可实时获取位置信息与电池数据，并进行远程统一管理的“防灾电池监控IoT平台”。通过将应急电源的状态始终可视化，同时实现防灾设备可靠性的提升与管理负担的减轻。</p>
+</section>
+
+<section class="challenges">
+<h2><span style="font-size: 14pt;">地方政府与企业在防灾电源及电池管理方面面临的课题</span></h2>
+<span style="font-size: 14pt;">地方政府或企业在防灾用电池及应急电源的管理上，面临着如下课题：</span>
+<ul>
+ 	<li><span style="font-size: 14pt;">・必须前往现场才能确认电池余量</span></li>
+ 	<li><span style="font-size: 14pt;">・设备分散在广阔区域，管理台账更新繁琐</span></li>
+ 	<li><span style="font-size: 14pt;">・定期巡检耗费大量人力与成本</span></li>
+ 	<li><span style="font-size: 14pt;">・难以察觉电池的老化或异常，寿命判断困难</span></li>
+</ul>
+<span style="font-size: 14pt;">像这样存在“一旦发生灾害却无法启动”的风险。</span><span style="font-size: 14pt;">作为解决这些课题的手段，利用IoT进行防灾电源的远程监控正受到关注。本公司将通信、数据获取、监控基盘一体化，支援防灾设备管理的高度化。</span>
+</section>
+
+<section class="features">
+<h2><span style="font-size: 14pt;">支撑防灾DX的电池监控IoT的三大特长</span></h2>
+<div class="feature-item">
+<h3><span style="font-size: 14pt;">1. 基于蜂窝通信的广域远程监控</span></h3>
+<span style="font-size: 14pt;">通过采用蜂窝通信（LTE-M等），不依赖现场的Wi-Fi或闭域网络，在全国任何地方均可连接。可对防灾仓库、避难所、公共设施等分散配置的应急电源进行统一管理。</span>
+</div>
+
+<div class="feature-item">
+<h3><span style="font-size: 14pt;">2. 实时远程获取并监控电池状态</span></h3>
+<!-- スマホ対応のため flex-wrap を追加 -->
+<div style="display: flex; gap: 30px; align-items: flex-start; margin-top: 20px; flex-wrap: wrap;">
+
+<!-- 左側：リスト -->
+<div style="flex: 1; min-width: 300px;">
+<ul>
+ 	<li><span style="font-size: 14pt;">・电池余量(SOC)</span></li>
+ 	<li><span style="font-size: 14pt;">・温度・电压・电流</span></li>
+ 	<li><span style="font-size: 14pt;">・老化趋势(SOH)</span></li>
+ 	<li><span style="font-size: 14pt;">・异常报警检测</span></li>
+ 	<li><span style="font-size: 14pt;">・安装位置信息(GPS)</span></li>
+</ul>
+</div>
+
+<!-- 右側：画像 （修正箇所：height: 242px を height: auto に変更） -->
+<div style="flex: 1; min-width: 300px;">
+<a href="https://jsage.co.jp/wp-content/uploads/2026/02/PastedGraphic-1.png" target="_blank" rel="noopener">
+<img class="alignnone wp-image-720" style="max-width: 100%; height: auto;" src="https://jsage.co.jp/wp-content/uploads/2026/02/PastedGraphic-1.png" alt="" width="372" height="195" />
+</a>
+</div>
+</div>
+</div>
+
+<div class="feature-item">
+<h3><span style="font-size: 14pt;">3. 满足防灾需求的高可靠性设计</span></h3>
+<span style="font-size: 14pt;">以长期储备为前提的低功耗设计和稳定通信，实现了持续监控。不产生“非常时期无法使用的储备”的设计思想，是本平台的基础。通过定量数据掌握设备状态，可以从发生故障后的事后应对转变为<strong>“预防性维护型”的防灾设备管理</strong>。
+</span>
+<ul>
+ 	<li>
+<h3><span style="font-size: 14pt;">4. 采用USB Type-C，充放电功能灵活</span></h3>
+</li>
+ 	<li>
+<p>采用了作为现代数字设备标准规格的USB Type-C接口，大大提升了灾害时的易用性。无需携带专用的AC适配器或特殊线缆，只要有一根平时智能手机使用的线缆，既可以给电池本体充电，也可以给外部设备供电。</p>
+<p>通过一个端口即可完成输入（本体蓄电）和输出（给设备供电）的双向充放电机制，使得操作非常简单。此外，由于支持USB PD（Power Delivery），可实现高功率供电。不仅是智能手机，笔记本电脑和无线电等通信设备也能迅速启动。</p>
+<p>在灾害时尤为重要的是这种高通用性。在丢失或损坏专用充电器可能致命的灾害现场，能够用市售的Type-C配件代替的灵活性是巨大的安心材料。即使是没有专业知识的避难者或工作人员也能直观操作，防止非常时期电源枯竭，强力支持信息收集和发布所不可或缺的移动终端的持续使用。</p>
+</li>
+</ul>
+</div>
+</section>
+
+<section class="achievements">
+<h2>开发实绩 | 被采用为防灾电源租赁服务的核心技术</h2>
+<span style="font-size: 14pt;"><strong>株式会社金本（Kanamoto）</strong>所提供的“电池交换式防灾电源租赁服务”中，本公司的监控基盘已被采用。</span>
+
+<span style="font-size: 14pt;">此外，在东京国际展示场举办的“自治体・公共Week（地域防灾EXPO）”上进行了共同出展，受到了许多地方政府和公共机关的高度关注。</span>
+
+<section class="related-links">
+<ul>
+ 	<li><a href="https://www.publicweek.jp/ja-jp/search/2025/directory/directory-details.%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AB%E3%83%8A%E3%83%A2%E3%83%88.org-136f6aa7-8aa4-4bdd-94d6-f1f402c5ffa3.html#/" target="_blank" rel="noopener noreferrer"><span style="font-size: 14pt;">自治体・公共Week 2025 出展商详情（金本展位）</span></a></li>
+</ul>
+</section>
+</section>
+
+<h3><span style="font-size: 14pt;">与引擎式发电机相比的优势</span></h3>
+<!-- スマホ対応のため flex-wrap を追加 -->
+<div style="display: flex; gap: 30px; align-items: flex-start; margin-top: 20px; flex-wrap: wrap;">
+
+<!-- 左側：リスト -->
+<div style="flex: 1; min-width: 300px;">
+<ul>
+ 	<li><span style="font-size: 14pt;">・消除燃料老化风险，</span></li>
+ 	<li><span style="font-size: 14pt;">　无需汽油的保管・更换・品质管理</span></li>
+ 	<li><span style="font-size: 14pt;">・零噪音・零废气，环境友好</span></li>
+ 	<li><span style="font-size: 14pt;">・大幅削减维护管理成本</span></li>
+ 	<li><span style="font-size: 14pt;">・降低燃料火灾及一氧化碳中毒的风险</span></li>
+</ul>
+</div>
+<!-- 右側：画像 -->
+<div style="flex: 1; min-width: 300px;"><img class="alignnone size-medium wp-image-746" style="max-width: 100%; height: auto;" src="https://jsage.co.jp/wp-content/uploads/2026/02/スクリーンショット-2026-02-10-151741-300x237.png" alt="" width="300" height="237" /></div>
+</div>
+
+<div class="benefits-section">
+<h2><span style="font-size: 16pt;">导入优势 | 提高应急电源管理的效率与防灾能力</span></h2>
+<div class="benefit-item" style="margin-bottom: 30px;">
+<h3><span style="font-size: 14pt;">1. 巡检业务的效率化</span></h3>
+<span style="font-size: 14pt;">通过导入远程监控系统，大幅减少了现场确认作业。以往需定期前往现场进行目视或测量的点检作业，现在可以从办公室或远程地实时进行。这大大削减了巡回点检的人力成本和移动时间，用有限的人员即可高效管理更多设备。</span>
+</div>
+<div class="benefit-item" style="margin-bottom: 30px;">
+<h3><span style="font-size: 14pt;">2. 提高防灾设备的可靠性</span></h3>
+<span style="font-size: 14pt;">通过实时检测电池的老化或异常，可以在灾害发生前采取对策。未然防止“一旦发生灾害，储备的电源却无法使用”这种最坏事态，大幅提高灾害时的运行率。通过预防性维护型管理，维持在真正需要时能确实发挥作用的防灾设备。</span>
+</div>
+<div class="benefit-item" style="margin-bottom: 30px;">
+<h3><span style="font-size: 14pt;">3. 削减管理成本</span></h3>
+<span style="font-size: 14pt;">通过远程监控带来的巡检效率化和预防性维护，大幅减轻人力负担。突发性的故障应对和紧急出动减少，使计划性维护成为可能，从而优化运营并削减总成本。此外，还有助于设备的长寿命化，可期待中长期的投资效率提升。</span>
+</div>
+<div class="benefit-item" style="margin-bottom: 30px;">
+<h3><span style="font-size: 14pt;">4. 推进防灾DX</span></h3>
+<span style="font-size: 14pt;">摆脱纸质点检表或Excel手动管理等模拟化运营，向利用数据的智能化管理体制转型。通过分析积累的数据，可预测设备状态或判断最佳更换时期，实现更具战略性的防灾设备管理。数字化也使得多据点的统一管理及向管理层提交可视化的报告变得容易。</span>
+</div>
+</div>
+
+<section class="flow">
+<h2><span style="font-size: 14pt;">IoT导入前的开发流程</span></h2>
+<ol>
+ 	<li><span style="font-size: 14pt;"><strong>听取需求・定义需求</strong></span>
+<span style="font-size: 14pt;">根据防灾设备的配置状况及管理体制，设计最佳的监控架构。</span></li>
+ 	<li><span style="font-size: 14pt;"><strong>系统设计</strong></span>
+<span style="font-size: 14pt;">构建统合通信方式、传感器、监控项目的架构。</span></li>
+ 	<li><span style="font-size: 14pt;"><strong>验证・实证（PoC）</strong></span>
+<span style="font-size: 14pt;">在设想实际运营的环境下实施测试，确保通信质量与数据精度。</span></li>
+ 	<li><span style="font-size: 14pt;"><strong>导入支援</strong></span>
+<span style="font-size: 14pt;">从安装到调试配置（Kitting）、开始运营，提供一贯的支持。</span></li>
+ 	<li><span style="font-size: 14pt;"><strong>运营支持</strong></span>
+<span style="font-size: 14pt;">通过持续的改善与更新，支援长期的稳定运营。</span></li>
+</ol>
+</section>
