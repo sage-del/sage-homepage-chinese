@@ -53,6 +53,18 @@
 						</div>
 					</a>
 				</div>
+
+				<div class="respons-6">
+					<a href="[translated_url slug='生产设备相关']">
+						<div class="inner">
+							<img src="https://jsage.co.jp/wp-content/uploads/2026/04/製造設備関連.jpg" alt="生产设备相关" />
+							<h3 class="n05">生产设备相关</h3>
+							<img class="btn" src="[template_url]/assets/img/home/btn-right-green.svg" />
+
+						</div>
+					</a>
+				</div>
+
 			</div>
 		</section>
 </div>
