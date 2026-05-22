@@ -1,105 +1,251 @@
-<span style="font-size: 12pt;"></span>
-<span style="font-size: 12pt;"></span>
+<main>
+        <h1>制造设备相关</h1>
+    </main>
 
-<div class="page news single">
-<div class="sc01"><section class="container">
-<div class="row">
-<div class="respons-full">
-<h1><span style="font-size: 12pt;">Miimo Bench System（割草机器人完成检测装置）</span></h1>
-
-
-<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px;">
-  <div style="flex: 1; min-width: 300px;">
-    <span style="font-size: 12pt;">为了高度保障本田技研工业（HONDA）生产的割草机器人“Miimo”的品质，本公司引入并运行了最先进的完成检测系统<strong>“Miimo Bench System（型号：ST-00001）”</strong>。</span>
-    <br /><br />
-    <span style="font-size: 12pt;">本装置从多角度验证产品外观及功能是否存在异常，并对结果进行集中管理，从而实现了具备高度可靠性的产品始终如一地出货。</span>
-  </div>
-  <div style="flex-shrink: 0;">
-    <img src="https://jsage.co.jp/wp-content/uploads/2026/03/miimo検査機の画像1.png" alt="Miimo检测装置图像" style="width: 300px; height: auto; display: block;" />
-  </div>
+<div class="sc00">
+	<section class="container">
+		<div class="row">
+			<div class="respons-full">
+				<h2>为本田技研工业株式会社的机器人割草机“Miimo”的质量保证，<br />引入了成品检查系统“Miimo Bench System（型号：ST-00001）”。</h2>
+			</div>
+		</div>
+	</section>
 </div>
 
-<section>
-<h2><span style="font-size: 12pt;">1. 装置概要</span></h2>
-<span style="font-size: 12pt;">本装置是全长超过5米的大型检测流水线。通过四个专业工作站，一贯式地执行从割草机器人的外观检查到高度功能诊断的所有流程。</span>
-<span style="font-size:12pt;">通过检查车辆的自主移动，以及自主开发的通用串行总线（Universal Serial Bus）转低功耗蓝牙（Bluetooth Low Energy）转换通信设备，实现了检测工序的全自动化。无需人工干预，兼顾了高精度的品质检查与生产效率的提升。</span>
+<div class="sc01">
+	<section class="container">
+		<div class="row">
+			<div class="respons-full">
+				<div class="left">
+					<h3 class="title">通过利用高精度成品检查设备彻底保证质量</h3>
+					<p>这是一条全长超过5米、由4个专业工位组成的从外观到功能诊断进行全面检查的大型生产线。</p>
+				</div>
+				<div class="right">
+<img src="https://jsage.co.jp/wp-content/uploads/2026/05/miimo検査機の画像ver.3.png" alt="检查机的图片" class="br alignnone size-medium wp-image-1212" />
+				</div>
+
+				
+			</div>
+		</div>
+	</section>
+</div>
+
+<div class="sc02">
+	<section class="container">
+		<div class="row">
+				<div class="respons-full">
+					<div class="wrapper block01">
+						<div class="left">
+<img src="https://jsage.co.jp/wp-content/uploads/2026/05/自動化検査システムが実現する4つの品質保証.png" alt="自动化的插图" style="width: 100%; height: auto;" class="br alignnone size-medium wp-image-1194" />
+						</div>
+						<div class="right">
+							<div class="bloon"><span>自动化检查系统实现的<br/>4项质量保证</span></div>
+							<ul>
+								<li>通过多方位的自动验证提供高质量产品</li>
+								<li>通过自主移动和独立设备实现检查工程的完全自动化</li>
+								<li>通过统一管理系统优化出货精度</li>
+								<li>通过早期发现异常来维持可靠性并提高产品寿命</li>
+							</ul>
+						</div>
+						<div class="clear"></div>
+					</div>
+				</div>
+				<div class="respons-full">
+					<div class="wrapper block02">
+						<div class="left">
+<img src="https://jsage.co.jp/wp-content/uploads/2026/05/効率的な4段階の検査プロセス.png" alt="质量保证的插图" style="width: 100%; height: auto;" class="br alignnone size-medium wp-image-1193" />
+						</div>
+						<div class="right">
+							<div class="bloon"><span>高效的4个阶段检查流程</span></div>
+							<ul>
+								<li>通过Quick Response（快速响应）码进行个体识别，以及严格的外观检查和建立系统通信</li>
+								<li>设想实际运行的高级功能诊断及安全性自动验证测试</li>
+								<li>自动对接精度与供电诊断，以及低功耗蓝牙（Bluetooth Low Energy）通信性能的确认与验证</li>
+								<li>通过检查数据的统一汇总进行最终判定，并通过出厂重置（Factory Reset）进行出货质量管理</li>
+							</ul>
+						</div>
+						<div class="clear"></div>
+					</div>
+				</div>
+				<div class="respons-full">
+					<div class="wrapper block03">
+						<div class="left">
+<img src="https://jsage.co.jp/wp-content/uploads/2026/05/品質・安全・効率を支える3つのシステムの特徴-300x269.png" alt="支撑质量、安全、效率的3项系统特点的插图" style="width: 100%; height: auto;" class="br alignnone size-medium wp-image-1195" />
+						</div>
+						<div class="right">
+							<div class="bloon"><span>支撑质量、安全、效率的<br/>3项系统特点</span></div>
+							<ul>
+								<li>通过实时监控和全记录追踪，实现迅速的质量可追溯性</li>
+								<li>自动隔离不合格（No Good）品，实现合格品零混入的防搬运错误功能</li>
+								<li>保护操作员和产品的4层多重安全系统</li>
+							</ul>
+						</div>
+						<div class="clear"></div>
+					</div>
+				</div>
+		</div>
+	</section>
+</div>
 
 
-</section><section>
-<h2><span style="font-size: 12pt;">2. 四阶段检测流程</span></h2>
-<span style="font-size: 12pt;">通过将全部检测工序优化分配至四个工作站，防止了负荷集中于特定工序。由此，实现了循环时间仅为60秒的高效率流水线运行。</span>
-<h3><span style="font-size: 12pt;">工作站 1：外观检查・单体识别</span></h3>
-<span style="font-size: 12pt;">通过快速响应矩阵码（Quick Response Code）对产品进行个体识别，并根据操作指南进行严格的外观检查。同时，建立与内部系统的通信并开始检测。</span>
-<h3><span style="font-size: 12pt;">工作站 2：功能・安全性测试</span></h3>
-<span style="font-size: 12pt;">自动验证实际运行中所要求的安全性和功能性，包括切割刀片的运行确认、碰撞检测（碰撞试验）以及抬起检测（起吊试验）等。</span>
-<h3><span style="font-size: 12pt;">工作站 3：对接・充电测试</span></h3>
-<span style="font-size: 12pt;">
-对接精度确认：验证是否可以通过自动行驶准确连接到充电站。
-供电诊断：检查对接后的充电过程是否按照规格要求开始。
-蓝牙连接确认：重置Miimo的蓝牙功能，确认设备是否正确迁移至广播状态。以此保证在实际使用中与智能手机的连接性能没有问题。</span>
-<h3><span style="font-size: 12pt;">工作站 4：最终判定・数据管理</span></h3>
-<span style="font-size: 12pt;">汇集各工作站的检测数据，并根据严格标准进行最终的合格判定。</span>
-<span style="font-size: 12pt;">判定后，无论合格与否，都会对所有机体执行恢复出厂设置（Factory Reset），完全清除检测时的设置和日志。确保客户始终能在洁净的状态下开始使用，保证品质。</span>
-
-</section><section>
-<h2><span style="font-size: 12pt;">3. 本系统的主要特点</span></h2>
-<ul>
- 	<li><span style="font-size: 12pt;"><strong>实时监控与追溯性：</strong></span>
-<span style="font-size: 12pt;">通过工业控制计算机（Industrial Personal Computer）的显示器，实时集中管理各产品的检测进度、故障信息及直通率。
-所有检测结果均作为详细数字数据记录，并经由网络直接保存至客户服务器。这使得在发生问题时能够迅速查明原因。</span></li>
- 	<li><span style="font-size: 12pt;"><strong>自动搬送与防错功能：</strong></span>
-<span style="font-size: 12pt;">被检测判定为不合格（Not Good）的产品，将由传送带自动隔离至不合格品区，自动防止与合格品混淆。</span></li>
- 	<li><span style="font-size: 12pt;"><strong>安全至上的设计：</strong></span>
-<span style="font-size: 12pt;">
-为了兼顾作业人员的安全确保与精确检测，配备了多重安全系统。
-刀片防护罩：防止刀片运行测试时的碎片飞散。
-光幕：通过传感器瞬时检测人员进入，使装置安全停止。
-门锁联动装置：通过机门开启检测与自动锁定功能，物理性切断运行中不经意的接触。
-紧急停止系统：部署于整条流水线，万一发生意外可立即停止所有功能。
-
-</span></li>
-</ul></section>
-
-<section>
-<h2><span style="font-size: 12pt;">4. 主要规格</span></h2>
-<table><caption><span style="font-size: 12pt;">主要规格</span></caption>
-<thead>
-<tr>
-<th scope="col"><span style="font-size: 12pt;">项目</span></th>
-<th scope="col"><span style="font-size: 12pt;">内容</span></th>
-</tr>
-</thead>
+<div class="sc04"><section class="container">
+<div class="row">
+<div class="respons-full">
+<h3 class="title">主要规格
+<small>（标准型号）</small></h3>
+</div>
+<div class="respons-full">
+<table class="table table-bordered">
 <tbody>
 <tr>
-<th scope="row"><span style="font-size: 12pt;">名称</span></th>
-<td><span style="font-size: 12pt;">Miimo Bench System</span></td>
+<th>名称</th>
+<td>Miimo Bench System</td>
 </tr>
 <tr>
-<th scope="row"><span style="font-size: 12pt;">型号</span></th>
-<td><span style="font-size: 12pt;">ST-00001</span></td>
+<th>型号</th>
+<td>ST-00001</td>
 </tr>
 <tr>
-<th scope="row"><span style="font-size: 12pt;">装置尺寸</span></th>
-<td><span style="font-size: 12pt;">宽 5,100毫米 × 深 2,500毫米 × 高 2,000毫米</span></td>
+<th>尺寸</th>
+<td>宽 5,100毫米 × 深 2,500毫米 × 高 2,000毫米</td>
 </tr>
 <tr>
-<th scope="row"><span style="font-size: 12pt;">对象产品</span></th>
-<td><span style="font-size: 12pt;">割草机器人</span></td>
+<th>适用产品</th>
+<td>机器人割草机</td>
 </tr>
 <tr>
-<th scope="row"><span style="font-size: 12pt;">主要检测项目</span></th>
-<td><span style="font-size: 12pt;">外观、刀具驱动、碰撞检测、抬起检测、对接动作、通信功能</span></td>
+<th>主要检查项目</th>
+<td>外观、刀片驱动、碰撞检测、抬起检测、对接动作、通信功能</td>
 </tr>
 </tbody>
 </table>
-</section><section>
-<h2><span style="font-size: 12pt;">5. 完善的维护体制</span></h2>
-<span style="font-size: 12pt;">年度检查：根据需求由本公司工程师实施。进行零件更换、传送带及执行器等活动设备的维护、绝缘电阻测量，并使用实机进行综合运行试验，以确认装置无异常。
-月度检查：请客户自行实施。根据使用说明书，进行外观目视检查、清洁，并确认活动部分的固定螺丝和螺栓有无松动。
-远程支持：通过远程访问，迅速实施远程故障排除及维护。
-</ul>
-</span>
-</section></div>
+</div>
 </div>
 </section></div>
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="sc00">
+	<section class="container">
+		<div class="row">
+			<div class="respons-full">
+				<h2>为电子设备的质量保证，开发并引入了将固件烧录到服务器联动进行统一管理的<br />“Telematics Control Unit（远程信息处理控制单元）出货前综合检查系统”。</h2>
+			</div>
+		</div>
+	</section>
 </div>
+
+<div class="sc01">
+	<section class="container">
+		<div class="row">
+			<div class="respons-full">
+				<div class="left">
+					<h3 class="title">整合了硬件、软件和网络的自动出货检查</h3>
+					<p>这是一条集成了向设备有线烧录程序、验证各种通信功能、自动输出出货标签以及向服务器自动注册数据的高可靠性生产线。</p>
+				</div>
+				<div class="right">
+<img src="https://jsage.co.jp/wp-content/uploads/2026/05/TCU出荷前総合検査システムの画像.png" alt="Telematics Control Unit（远程信息处理控制单元）出货前综合检查系统的图片" style="width: 100%; height: auto;" class="br alignnone size-medium wp-image-1232" />
+				</div>
+			</div>
+		</div>
+	</section>
+</div>
+
+<div class="sc02">
+	<section class="container">
+		<div class="row">
+				<div class="respons-full">
+					<div class="wrapper block01">
+						<div class="left">
+<img src="https://jsage.co.jp/wp-content/uploads/2026/05/確実なファームウェア書き込みのイラストver.2.png" alt="可靠的固件烧录的插图" style="width: 100%; height: auto;" class="alignnone size-medium wp-image-1244" />
+						</div>
+						<div class="right">
+							<div class="bloon"><span>可靠的固件烧录与<br/>设定值验证</span></div>
+							<ul>
+								<li>向目标设备高速有线烧录程序工程的自动化</li>
+								<li>通过对各个Telematics Control Unit（远程信息处理控制单元）设定值的烧录及回读验证，彻底防止程序烧录错误</li>
+								<li>即使发生烧录失败、设定值不一致或通信中断，也能立即检测出，并切实阻断不合格品流入下一道工序</li>
+							</ul>
+						</div>
+						<div class="clear"></div>
+					</div>
+				</div>
+				<div class="respons-full">
+					<div class="wrapper block02">
+						<div class="left">
+<img src="https://jsage.co.jp/wp-content/uploads/2026/05/多角的な通信診断-300x200.png" alt="多方位的通信诊断的插图" style="width: 100%; height: auto;" class="alignnone size-medium wp-image-1239" />
+						</div>
+						<div class="right">
+							<div class="bloon"><span>多方位的通信功能诊断与<br/>标签自动发行</span></div>
+							<ul>
+								<li>利用Controller Area Network（控制器局域网络）通信及串行通信进行可靠的连通确认与功能验证</li>
+								<li>通过与Personal Computer（个人电脑）软件联动，实时监控检查进度并直观显示合格与否的判定</li>
+								<li>与检查合格（Okay）判定联动，自动打印包含产品固有信息及Quick Response（快速响应）码的出货标签</li>
+							</ul>
+						</div>
+						<div class="clear"></div>
+					</div>
+				</div>
+				<div class="respons-full">
+					<div class="wrapper block03">
+						<div class="left">
+<img src="https://jsage.co.jp/wp-content/uploads/2026/05/高度なトレーサビリティのイラストver.3.png" alt="高级可追溯性的插图" style="width: 100%; height: auto;"　class="alignnone size-medium wp-image-1247" />
+						</div>
+						<div class="right">
+							<div class="bloon"><span>通过服务器联动的记录管理与<br/>环境异常检测</span></div>
+							<ul>
+								<li>安全证书的自动下载及在设备上的可靠应用与保存</li>
+								<li>将检查日期时间、序列号、International Mobile Equipment Identity（国际移动设备识别码）、型号等出货信息自动注册到服务器，建立可靠的质量可追溯性</li>
+								<li>自动检测互联网断开及各种通信超时等环境异常，切实进行不合格（No Good）判定与日志保存的故障安全（Fail-safe）设计</li>
+							</ul>
+						</div>
+						<div class="clear"></div>
+					</div>
+				</div>
+		</div>
+	</section>
+</div>
+
+<div class="sc04"><section class="container">
+<div class="row">
+<div class="respons-full">
+<h3 class="title">主要规格
+<small>（系统构成示例）</small></h3>
+</div>
+<div class="respons-full">
+<table class="table table-bordered">
+<tbody>
+<tr>
+<th>名称</th>
+<td>Telematics Control Unit（远程信息处理控制单元）出货前综合检查系统</td>
+</tr>
+<tr>
+<th>构成要素</th>
+<td>检查器硬件、检查器软件、Personal Computer（个人电脑）软件、服务器、网络环境、标签打印机</td>
+</tr>
+<tr>
+<th>通信规格</th>
+<td>Controller Area Network（控制器局域网络）通信、串行通信</td>
+</tr>
+<tr>
+<th>主要功能</th>
+<td>固件有线烧录、Telematics Control Unit（远程信息处理控制单元）设定烧录、证书自动下载、出货信息统一管理、标签打印</td>
+</tr>
+<tr>
+<th>日志管理对象</th>
+<td>检查日期时间、检查结果（Okay／No Good）、序列号、International Mobile Equipment Identity（国际移动设备识别码）、型号、操作员信息、错误信息</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</section></div>
